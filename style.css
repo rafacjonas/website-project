@@ -7,9 +7,10 @@ body {
   min-height: 95vh;
 }
 
-.creative {
-  color: midnightblue;
+.personal-name {
+  color: darkgray;
 }
+
 
 .main {
   flex: 1;
